@@ -1,0 +1,11 @@
+.single-bookmark {
+  background: #ffffff;
+  border-radius: 8px;
+  margin: 16px 0;
+  padding: 10px;
+}
+
+.single-bookmark p {
+  font-weight: 600;
+  font-size: 18px;
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "coverImg": "https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?w=1380&t=st=1683011099~exp=1683011699~hmac=732f7f49e7b565f69177667c5dda0e34b7c222d73d6d9fd8064e8af4e2fe913d",
+    "authorImg": "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=996&t=st=1683013961~exp=1683014561~hmac=dab8837760ec7547656c8e5e122d71578fede826c5fc5fc3f69026e901a11541",
+    "title": "How to get your first job as a self-taught programmer",
+    "authorName": "Mr. Raju",
+    "publishedDate": "March 14",
+    "readingTime": 5
+  },
+  {
+    "id": "2",
+    "coverImg": "https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=1380&t=st=1683011089~exp=1683011689~hmac=de71753ddec8bdd4b8589f020ce259f865ceb0e70c81485c872efbbde11c32ca",
+    "authorImg": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1683011791~exp=1683012391~hmac=44745098493963de6b21f60ff99647da9240afe7d7049d696aca820c4a4b813a",
+    "title": "How to learn JavaScript",
+    "authorName": "Emon Shimoul",
+    "publishedDate": "January 10",
+    "readingTime": 10
+  },
+  {
+    "id": "3",
+    "coverImg": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?w=1380&t=st=1683011057~exp=1683011657~hmac=8f684a9514476da5e325a82b5c1491022c5bfd71d3cb1e2e956bc57d6fd4ca5a",
+    "authorImg": "https://img.freepik.com/free-photo/smiley-handsome-man-posing_23-2148911841.jpg?w=826&t=st=1683015185~exp=1683015785~hmac=8bf2c607f698c6f95131d3209c9161c3487711e21be3d5286967ee05052e805e",
+    "title": "How to use React Hooks",
+    "authorName": "Alim Mostafa",
+    "publishedDate": "September 14",
+    "readingTime": 8
+  },
+  {
+    "id": "4",
+    "coverImg": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1683011067~exp=1683011667~hmac=85412ca530b7062a912225fe1676c609a95eedacc9cde7066f6744cffe123c30",
+    "authorImg": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1683011791~exp=1683012391~hmac=44745098493963de6b21f60ff99647da9240afe7d7049d696aca820c4a4b813a",
+    "title": "How to be a MERN Stack Developer",
+    "authorName": "Shafin Shahriar",
+    "publishedDate": "July 14",
+    "readingTime": 7
+  }
+]
